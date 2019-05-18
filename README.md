@@ -6,6 +6,10 @@ This is the code behind https://imgur.com/gallery/kc4k2pO . It's a simple handhe
 
 Feel free to change it up or submit fixes.
 
+## Libraries
+
+- https://github.com/FastLED/FastLED
+
 ## Credits
 
 The breakout code is modeled after https://github.com/MakerTechDK/8x8LEDMatrixBreakoutGame . MakerTechDK's plays much, _much_ better though...
